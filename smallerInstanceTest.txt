@@ -1,0 +1,16 @@
+
+
+
+
+VehicleId,VehicleLocation,VehicleLocationId
+0,OsloV,3
+
+NodeId,Location,LocationId,TimeWindowStart,TimeWindowEnd,Weight,Volume,Revenue,ServiceTime
+1,KristiansandS,24,1,91,10,15,189.08,1.0
+2,TrondheimS,110,1,300,-16,-14,0.0,1.6
+3,Sandefjord,19,25,118,-10,-15,0.0,1.0
+4,Drammen,8,3,138,10,12,291.97,1.0
+5,OsloO,0,4,94,18,13,954.07,1.8
+
+
+
